@@ -15,7 +15,7 @@ You will need to install it manually, which can be done as follows:
 .. code:: bash
 
     # You'll need to django-filter
-    pip install django-filter==1.1.0
+    pip install django-filter>=2
 
 Note: The techniques below are demoed in the `cookbook example
 app <https://github.com/graphql-python/graphene-django/tree/master/examples/cookbook>`__.
